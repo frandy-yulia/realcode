@@ -1,0 +1,18 @@
+{
+  "name": "realcode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron . --disable-dev-shm-usage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "3.0.7"
+  },
+  "dependencies": {
+    "directory-tree": "^2.2.7"
+  }
+}
